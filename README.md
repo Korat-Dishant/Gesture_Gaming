@@ -2,11 +2,11 @@
 play games using your camera. this program detects hand gestures and control the game accordingly.
 
 Requirements :
--Opencv
+- Opencv
 ( you have to install opencv into your computer )
--mediapipe
+- mediapipe
 pip install mediapipe
--pyautogui
+- pyautogui
 pip install PyAutoGUI
 
 you can play any games which have basic control systems. Here in the demo i have used hillclimb racing and code provided in gestures.py is also optimized for hillclimb racing.
