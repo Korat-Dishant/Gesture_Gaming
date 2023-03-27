@@ -12,5 +12,6 @@ as you can see from above image media pipe can extract 21 fingers , joints and h
 after getting the locations for the joints i have used pyautogui which can give keyboard commands to the os while the programe is runnig. I have implemented the loic that if the palm is open
 then the program is going to simulate pressing right arrow-key which is used for GAS control in the game and when the palm is closed it gives left arrow-key command.
 
-this way you can play any games by modifying the code little bit and settiungup your own commands.
+this way you can play any games by modifying the code little bit and setting-up your own commands.
 
+![demo](https://user-images.githubusercontent.com/86142546/227912835-8d88b991-07af-44da-bdec-098369ba54dd.jpeg)
