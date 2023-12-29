@@ -6,6 +6,8 @@ run this command to install all required libs
 pip install requirements.txt
 ```
 
+Note : press "q" to close opencv camera window and program
+
 Requirements :
 - Opencv
 
