@@ -1,6 +1,11 @@
 # Gesture_Gaming
 play games using your camera. this program detects hand gestures and control the game accordingly.
 
+run this command to install all required libs
+```bash
+pip install requirements.txt
+```
+
 Requirements :
 - Opencv
 
